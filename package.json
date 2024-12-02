@@ -1,0 +1,11 @@
+{
+  "name": "docker-prac",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kongukjae/docker-prac.git",
+  "author": "kongukjae <kongukjae@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "22.11.0"
+  }
+}
